@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/elo/static/css/main.975897d1.css",
+    "main.js": "/elo/static/js/main.c7e7df56.js",
+    "static/media/povar2.jpeg": "/elo/static/media/povar2.e1e156a140405531923d.jpeg",
+    "index.html": "/elo/index.html",
+    "main.975897d1.css.map": "/elo/static/css/main.975897d1.css.map",
+    "main.c7e7df56.js.map": "/elo/static/js/main.c7e7df56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975897d1.css",
+    "static/js/main.c7e7df56.js"
+  ]
+}
